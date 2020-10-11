@@ -16,9 +16,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneha-mallik-736170191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_sneham2210/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/sneha.mallik.796)
 
-## Programming Languages used in my projects :
+
 
 ![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=snehaM2210&show_icons=true&count_private=true&theme=radical )
+## Programming Languages used in my projects :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact)](https://github.com/snehaM2210/github-readme-stats)
 
 
@@ -33,5 +34,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 </p>
-
+</br>
+</br>
 ***Meanwhile you can check out my Repositories***👇😄
