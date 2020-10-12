@@ -2,8 +2,8 @@
 
  
  
-- 🔭 I’m currently working on a website
-- 🌱 Presently I'm learning javascript,blender 3D and Unity
+- 🔭 I’m currently working on building skills in python
+- 🌱 Presently I'm also learning js,blender 3D and Unity
 - 👯 Eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with websites,js and unity related stuff
 - 💬 Ask me about how to keep the josh(spirit) high even in worst situations!
