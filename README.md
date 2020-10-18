@@ -2,9 +2,9 @@
 
  
  
-- 🔭 I’m currently working on building skills in python
+- 🔭 I’m currently building skills in python
 - 🌱 Presently I'm also learning react & javascript
-- 👯 Eagerly looking forward to collaborate on Github
+- 👯 I'm eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with websites,js and unity related stuff
 - 💬 Ask me about how to keep the josh(spirit) high even in worst situations!
 - 📫 How to reach me: snehamallik665@gmail.com 
