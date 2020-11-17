@@ -2,10 +2,10 @@
 
  
  
-- 🔭 I’m currently building skills in python
-- 🌱 Presently I'm also learning react & javascript
+- 🔭 I’m currently building skills
+- 🌱 Presently I'm learning react.js
 - 👯 I'm eagerly looking forward to collaborate on Github
-- 🤔 I’m looking for help with websites,js and unity related stuff
+- 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about how to keep the josh(spirit) high even in worst situations!
 - 📫 How to reach me: snehamallik665@gmail.com 
 - 😄 Pronouns: She/Her
@@ -31,8 +31,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>-->
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 </p>
 </br>
