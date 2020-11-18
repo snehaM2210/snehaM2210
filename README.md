@@ -2,7 +2,7 @@
 
  
  
-- 🔭 I’m currently building skills
+- 🔭 I’m currently improving my coding skills
 - 🌱 Presently I'm learning react.js
 - 👯 I'm eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with competitive programming
