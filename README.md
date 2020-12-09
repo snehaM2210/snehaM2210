@@ -2,8 +2,8 @@
 
  
  
-- 🔭 I’m currently improving my coding skills
-- 🌱 Presently I'm learning react.js
+- 🔭 I’m currently improving my skills
+- 🌱 Presently I'm also learning react and redux
 - 👯 I'm eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with competitive programming
 - 💬 Ask me about how to keep the josh(spirit) high even in worst situations!
