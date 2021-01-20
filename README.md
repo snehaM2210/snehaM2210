@@ -2,7 +2,7 @@
 
  
  
-- 🔭 I’m currently improving my skills in programming
+- 🔭 I’m currently improving skills in comp. programming
 - 🌱 Presently I'm also learning MERN
 - 👯 I'm eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with competitive programming
