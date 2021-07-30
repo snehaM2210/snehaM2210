@@ -1,29 +1,32 @@
-# Heyyaa Folks!! Sneha this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+# Heyyaa People🤗!! Sneha this side <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 
- 
- 
-- 🔭 I’m currently improving skills in comp. programming
-- 🌱 Presently I'm also learning MERN
-- 👯 I'm eagerly looking forward to collaborate on Github
+- 💻 I’m currently improving skills in DSA and comp. programming
+- 🌻 Presently I'm also learning MERN
+- 💖 I'm eagerly looking forward to collaborate on Github
 - 🤔 I’m looking for help with competitive programming
-- 💬 Ask me about how to keep the josh(spirit) high even in worst situations!
-- 📫 How to reach me: snehamallik665@gmail.com 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm probably the most introverted extrovert you'll ever meet!
+- 🔥 Ask me about how to keep the josh(spirit) high even in worst situations!
+- 💌 How to reach me: snehamallik665@gmail.com
+- 👩🏻 Pronouns: She/Her
+- 🐣 Fun fact: I'm probably the most introverted extrovert you'll ever meet!
 
-## Let's connect on a cup of coffee and chat! 
+## Let's connect on a cup of coffee and chat!
+
 ### Open for collaborations.
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneha-mallik-736170191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_sneham2210/) 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneha-mallik-736170191/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_sneham2210/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/sneha.mallik.796)
 
-
-<p align='center'><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact&theme=radical" alt="Sneha Mallik" />&nbsp; &nbsp;<img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=snehaM2210&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000"/></p>
+<p align='center'><img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact&theme=radical" alt="Sneha Mallik" />&nbsp; &nbsp;
+<img width="420px" src=" http://github-readme-streak-stats.herokuapp.com?user=snehaM2210&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000" alt="SnehaMallikStrikeRate"/></p>
 
 <!--![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=snehaM2210&show_icons=true&count_private=true&theme=radical )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaM2210&layout=compact&theme=radical)](https://github.com/snehaM2210/github-readme-stats)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snehaM2210&theme=dark&hide_border=true&sideLabels=BDC773&sideNums=67DDA5&stroke=5CDD79&background=000000)-->
 <p align='center'><img width="450px" src="https://github-readme-stats.vercel.app/api?username=snehaM2210&show_icons=true&count_private=true&theme=radical" alt="Sneha Mallik" /></p>
 
+![](https://activity-graph.herokuapp.com/graph?username=snehaM2210&theme=react-dark&hide_border=true&area=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=snehaM2210.visitor-badge)
 
 ## Languages and Tools I know:
 
@@ -41,4 +44,4 @@
 </br>
 </br>
 
-<b>***Meanwhile you can check out my Repositories and star some if you like it***🤩🌟</b>
+<b>**_Do check out my Repositories and give some stars if you like it_**🤩🌟</b>
